@@ -1,0 +1,14 @@
+
+{
+  "identifier": "tv.abema.plugins.rem",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "script": "rem.js",
+      "name": "rem",
+      "identifier": "rem",
+      "shortcut": "e",
+    }
+  ]
+}
